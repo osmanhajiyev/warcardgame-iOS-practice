@@ -1,5 +1,5 @@
-
+Gamble luck card game
 
 Built for fun.
 
-![warcardgame.PNG)
+![warcardgame](warcardgame.PNG)
